@@ -1,0 +1,7 @@
+[package]
+name = "rust_webservice"
+version = "0.1.0"
+authors = ["Tom Martin <tom@tpgmartin.com>"]
+
+[dependencies]
+nickel = "0.8.1"
